@@ -261,7 +261,6 @@ ul {
         margin-bottom: 1.8rem; } }
   .hero__img {
     max-width: 80%;
-    height: auto; }
     @media (min-width: 734px) {
       .hero__img--iphone-se {
         display: none; } }
